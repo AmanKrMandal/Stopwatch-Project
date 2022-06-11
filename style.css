@@ -1,0 +1,40 @@
+body{
+background-color: #2c3e50;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+.btn{
+    padding: 5px 15px;
+}
+.container{
+    font-size: 150px;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+}
+.btn-container{
+    text-align: center;
+}
+.btn{
+    padding: 8px 25px ;
+    font-size: large;
+    margin: 0px 15px;
+    color: white;
+    border: 0px;
+    cursor: pointer;
+}
+#start{
+background-color: #1abc9c;
+}
+#pause{
+background-color: #3498db
+}
+#stop{
+background-color: rgb(237, 19, 19);
+}
+#stopwatch{
+    font-size: 100px;
+    text-align: center;
+}
